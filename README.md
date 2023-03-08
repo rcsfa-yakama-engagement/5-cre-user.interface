@@ -1,2 +1,2 @@
-# 5-cre-user.interface
-This repository would support our basic user engagement interface deployed via github pages.
+# quarto-site-template
+Example quarto site without R or Python!
